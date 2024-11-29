@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Django project <br>👯 I’m looking to collaborate on who are expert in Django framework, Python and Machine Learning  <br>🌱 I’m currently learning Machine Learning algorithms <br>💬 Ask me about Python, Django, Docker, Linux, Bash scripting <br>
+🔭 I’m currently working on Django project <br>👯 I’m looking to collaborate on projects in Django framework, Python and Machine Learning  <br>🌱 I’m currently learning Machine Learning algorithms <br>💬 Ask me about Python, Django, Docker, Linux, Bash scripting <br>
 
 
 # 💻 Tech Stack:
