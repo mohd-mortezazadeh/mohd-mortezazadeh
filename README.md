@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on .NET technologies<br>👯 I’m looking to collaborate on new projects with .NET<br>🤝 I’m looking for help to upgrade my knowledge in AI/ML<br>🌱 I’m currently learning new features in .NET and ML algorithms<br>💬 Ask me about C# and ASP.NET<br>⚡ I started my serious coding since 2012
+🔭 I’m currently working on Python and .NET technologies<br>👯 I’m looking to collaborate on new projects with Python and .NET<br>🤝 I’m looking for help to upgrade my knowledge in AI/ML<br>🌱 I’m currently learning new features in .NET and ML algorithms<br>💬 Ask me about Python, Django, C# and ASP.NET<br>⚡ I started my serious coding since 2012
 
 
 # 💻 Tech Stack:
